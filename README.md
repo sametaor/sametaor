@@ -1,5 +1,5 @@
 [![Header](https://raw.githubusercontent.com/sametaor/sametaor/main/Forzagithubbanner.png "sametaor")](https://github.com/sametaor)
-### Hi there! Welcome to my profile! 👋
+### Hi there! Welcome to my profile!<img src="https://raw.githubusercontent.com/sametaor/sametaor/main/Hellothere.gif" width="30px"> 
 
 - 🔭 I’m currently working on ... A discord bot for a server as my practice project for Python
 - 🌱 I’m currently learning ... Python, HTML, C#(maybe), C++(maybe)
