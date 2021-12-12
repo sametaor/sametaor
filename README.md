@@ -9,3 +9,12 @@
 - 📫 How to reach me: ... Discord, [Youtube](https://www.youtube.com/channel/UCHJwofe1t7W-Xf5p2hRyKfw), [Twitter](https://twitter.com/sametaor), [Github(ofc)](https://github.com/sametaor), [Reddit](https://www.reddit.com/user/sametaor)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I can grab your attention by saying "Fun fact:" ;)
+
+[![sametaor's GitHub stats](https://github-readme-stats.vercel.app/api?username=sametaor&show_icons=true&theme=vision-friendly-dark&border_color=feaf00)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sametaor&layout=compact&show_icons=true&theme=vision-friendly-dark&border_color=feaf00)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/sametaor/Test-bot-for-Discord">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametaor&repo=Test-bot-for-Discord&show_icons=true&theme=vision-friendly-dark&border_color=feaf00" />
+</a>
+<a href="https://github.com/sametaor/sametaor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametaor&repo=sametaor&show_icons=true&theme=vision-friendly-dark&border_color=feaf00" />
+</a>
