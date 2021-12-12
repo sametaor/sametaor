@@ -30,8 +30,12 @@
 
 <!-- github cards -->
 ## Stats:
-[![sametaor's GitHub stats](https://github-readme-stats.vercel.app/api?username=sametaor&show_icons=true&theme=vision-friendly-dark&border_color=feaf00)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sametaor&layout=compact&show_icons=true&theme=vision-friendly-dark&border_color=feaf00)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/sametaor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sametaor&show_icons=true&theme=vision-friendly-dark&border_color=feaf00" />
+</a>
+<a href="https://github.com/sametaor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametaor&layout=compact&show_icons=true&theme=vision-friendly-dark&border_color=feaf00" />
+</a>
 <a href="https://github.com/sametaor/Test-bot-for-Discord">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametaor&repo=Test-bot-for-Discord&show_icons=true&theme=vision-friendly-dark&border_color=feaf00" />
 </a>
