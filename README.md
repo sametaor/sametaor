@@ -1,3 +1,4 @@
+[![Header](https://raw.githubusercontent.com/sametaor/sametaor/main/Forzagithubbanner.png "sametaor")](https://github.com/sametaor)
 ### Hi there! Welcome to my profile! 👋
 
 - 🔭 I’m currently working on ... A discord bot for a server as my practice project for Python
