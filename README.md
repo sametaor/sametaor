@@ -56,3 +56,6 @@
 <a href="https://github.com/sametaor/sametaor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametaor&repo=sametaor&show_icons=true&theme=chartreuse-dark&border_color=7de003&bg_color=90d,d26a0f,5c3410" />
 </a>
+<a href="https://github.com/sametaor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sametaor&show_icons=true&theme=chartreuse-dark&border_color=7de003&bg_color=90d,d26a0f,5c3410" />
+</a>
