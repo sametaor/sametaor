@@ -7,12 +7,14 @@
 [![Repos Badge](https://badges.pufler.dev/repos/sametaor?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAACWUlEQVRoge2ZT2sTQRjGf7MbaVJLBXOwwXiw4p%2BDJ0W86F0seBMETyLEb%2BB30E9gLp68iBc9VAVv7cmj2IsovbTQYFubSE3Umn09JLMEspndLNllJuQH%2B4fdneV5dmfeZ9iFGTNmOI0ynbz3cG1FBaoOnAZYXr6UqRjf71Apb3D1yllWPwR8%2Bny4TeDVXr%2B89m5UG890QxWoZ%2FTF50G3W6Kxf5kTix4P7lcAqnhB3dTGaACo6h2RCShMwL9uCYDyyWP60BnT9YW4G0peylNiNCAiA0%2FeTiOxBhBbpfeIMaC39lqIfwNoI3aaSGRgVDcqnvvF4q3vKIHm%2B1P82ZzPQKIZYxkV0YtEdqPgxjea7HGg9ghufs1MpIlkb4DocXDQ%2FkmgfgOg2kUWJiwuCeYg6z95XY2GGq%2Bfp7X7l9buEf76hYwkmomtQv1hHGmg1FiiurqSibCkmA0wmANOVqHeyk7pPRImsb0WEhkAl3MAmYIcGDEOHMoBXM6B0YPA%2FhyQgQSwdEo9hoEc1KQgJomZjiCD6DBzIAdkYBk%2B70AOEA4Ad3MACSd1Q43tzwExViAHckBv7a1D0x5kEA5gO%2FUn%2FSoRXUZtYIzPKplrSUWiqUS4byHm%2FwNhAtsqP34qsa2nEXl1oYLfAWD%2Fx5E%2BtGW6PsaAV1NoE9k78L02S%2BUNmq2A5y92ALYUqmZqY%2FxLaWLn4nWjo8qXj6nvPQ6x%2F8hG4R8vTVJHalIbKMw7bsArzundjoI6gMAjIFdn6btQcW5TRN54Ik8X3r5qABzevvskUOqx8tSdyUk08x%2BpxHKSfB4lZgAAAABJRU5ErkJggg%3D%3D)](https://github.com/sametaor?tab=repositories)
 
 - 🔭 I’m currently working on ... A discord bot for a server as my practice project for Python
-- 🌱 I’m currently learning ... Python, HTML, C#(maybe), C++(maybe)
 - 👯 I’m looking to collaborate on ... simple bots for different social media platforms
 - 🤔 I’m looking for help with ... Discord API
 - 💬 Ask me about ... Basic Python
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I can grab your attention by saying "Fun fact:" ;)
+
+## <img src="https://raw.githubusercontent.com/sametaor/sametaor/main/icons8-source-code-48.png" width="20px"> My Learning Goals:
+[![Python][6.2]][6] [![HTML][7.2]][7] [![C#][8.2]][8] [![C++][9.2]][9] [![JS][10.2]][10]
 ## How to reach me:
 ![Discord][1.2] [![Youtube][2.2]][2] [![Twitter][3.2]][3] [![Github][4.2]][4] [![Reddit][5.2]][5]
 
@@ -22,6 +24,11 @@
 [3.2]: https://i.imgur.com/Gmz6w3a.png
 [4.2]: https://i.imgur.com/SZ2823u.png
 [5.2]: https://i.imgur.com/0lxyBXY.png
+[6.2]: https://i.imgur.com/1qlASmA.png
+[7.2]: https://i.imgur.com/wM11j4x.png
+[8.2]: https://i.imgur.com/QP8Ylpw.png
+[9.2]: https://i.imgur.com/RKTDGaw.png
+[10.2]: https://i.imgur.com/LmlwISP.png
 
 <!-- socials -->
 [2]: https://www.youtube.com/channel/UCHJwofe1t7W-Xf5p2hRyKfw
@@ -29,6 +36,12 @@
 [4]: https://github.com/sametaor
 [5]: https://www.reddit.com/user/sametaor
 
+<!-- programming langs -->
+[6]: https://www.python.org/
+[7]: http://info.cern.ch/hypertext/WWW/MarkUp/Tags.html
+[8]: https://docs.microsoft.com/en-us/dotnet/csharp/
+[9]: https://isocpp.org/
+[10]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 <!-- github cards -->
 ## Stats:
 <a href="https://github.com/sametaor">
