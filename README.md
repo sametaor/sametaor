@@ -16,7 +16,7 @@
 ## <img src="https://raw.githubusercontent.com/sametaor/sametaor/main/icons8-source-code-48.png" width="20px"> My Learning Goals:
 [![Python][6.2]][6] [![HTML][7.2]][7] [![C#][8.2]][8] [![C++][9.2]][9] [![JS][10.2]][10]
 ## How to reach me:
-![Discord][1.2] [![Youtube][2.2]][2] [![Twitter][3.2]][3] [![Github][4.2]][4] [![Reddit][5.2]][5]
+![Discord][1.2] [![Youtube][2.2]][2] [![Twitter][3.2]][3] [![Github][4.2]][4] [![Reddit][5.2]][5] [![StackOverflow][11.2]][11] [![StackExchange][12.2]][12]
 
 <!-- Icons -->
 [1.2]: https://i.imgur.com/skd0RY0.png
@@ -29,12 +29,16 @@
 [8.2]: https://i.imgur.com/QP8Ylpw.png
 [9.2]: https://i.imgur.com/RKTDGaw.png
 [10.2]: https://i.imgur.com/LmlwISP.png
+[11.2]: https://i.imgur.com/YtvZXvs.png
+[12.2]: https://i.imgur.com/CbaSs8T.png
 
 <!-- socials -->
 [2]: https://www.youtube.com/channel/UCHJwofe1t7W-Xf5p2hRyKfw
 [3]: https://twitter.com/sametaor
 [4]: https://github.com/sametaor
 [5]: https://www.reddit.com/user/sametaor
+[11]: https://stackoverflow.com/users/16008830/sametaor
+[12]: https://stackexchange.com/users/21694727/sametaor
 
 <!-- programming langs -->
 [6]: https://www.python.org/
@@ -55,7 +59,4 @@
 </a>
 <a href="https://github.com/sametaor/sametaor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametaor&repo=sametaor&show_icons=true&theme=chartreuse-dark&border_color=7de003&bg_color=90d,d26a0f,5c3410" />
-</a>
-<a href="https://github.com/sametaor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sametaor&show_icons=true&theme=chartreuse-dark&border_color=7de003&bg_color=90d,d26a0f,5c3410" />
 </a>
