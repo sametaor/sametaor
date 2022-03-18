@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/sametaor/sametaor/main/Forzagithubbanner.png "sametaor")](https://github.com/sametaor)
+[![Header](https://raw.githubusercontent.com/sametaor/sametaor/main/Sakura_full.png.jpeg "sametaor")](https://github.com/sametaor)
 # Hello there!<img src="https://raw.githubusercontent.com/sametaor/sametaor/main/Hellothere.gif" width="30px"> 
 ### Welcome to my github profile! <img src="https://raw.githubusercontent.com/sametaor/sametaor/main/Octocat.png" width="30px">
 [![OS](https://img.shields.io/badge/OS-Windows⠀10-informational?style=for-the-badge&logo=Windows&logoColor=blue&color=2997cc)](https://www.microsoft.com/en-us/software-download/windows10)
