@@ -15,6 +15,7 @@
     <img align="center" src="https://badges.pufler.dev/repos/sametaor?style=for-the-badge&color=e9040a&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAACWUlEQVRoge2ZT2sTQRjGf7MbaVJLBXOwwXiw4p%2BDJ0W86F0seBMETyLEb%2BB30E9gLp68iBc9VAVv7cmj2IsovbTQYFubSE3Umn09JLMEspndLNllJuQH%2B4fdneV5dmfeZ9iFGTNmOI0ynbz3cG1FBaoOnAZYXr6UqRjf71Apb3D1yllWPwR8%2Bny4TeDVXr%2B89m5UG890QxWoZ%2FTF50G3W6Kxf5kTix4P7lcAqnhB3dTGaACo6h2RCShMwL9uCYDyyWP60BnT9YW4G0peylNiNCAiA0%2FeTiOxBhBbpfeIMaC39lqIfwNoI3aaSGRgVDcqnvvF4q3vKIHm%2B1P82ZzPQKIZYxkV0YtEdqPgxjea7HGg9ghufs1MpIlkb4DocXDQ%2FkmgfgOg2kUWJiwuCeYg6z95XY2GGq%2Bfp7X7l9buEf76hYwkmomtQv1hHGmg1FiiurqSibCkmA0wmANOVqHeyk7pPRImsb0WEhkAl3MAmYIcGDEOHMoBXM6B0YPA%2FhyQgQSwdEo9hoEc1KQgJomZjiCD6DBzIAdkYBk%2B70AOEA4Ad3MACSd1Q43tzwExViAHckBv7a1D0x5kEA5gO%2FUn%2FSoRXUZtYIzPKplrSUWiqUS4byHm%2FwNhAtsqP34qsa2nEXl1oYLfAWD%2Fx5E%2BtGW6PsaAV1NoE9k78L02S%2BUNmq2A5y92ALYUqmZqY%2FxLaWLn4nWjo8qXj6nvPQ6x%2F8hG4R8vTVJHalIbKMw7bsArzundjoI6gMAjIFdn6btQcW5TRN54Ik8X3r5qABzevvskUOqx8tSdyUk08x%2BpxHKSfB4lZgAAAABJRU5ErkJggg%3D%3D" />
   </a>
 </p>
+
 - 🔭 I’m currently working on ... A discord bot for a server as my practice project for Python
 - 👯 I’m looking to collaborate on ... simple bots for different social media platforms
 - 🤔 I’m looking for help with ... Discord API
