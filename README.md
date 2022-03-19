@@ -1,6 +1,7 @@
 [![Header](https://raw.githubusercontent.com/sametaor/sametaor/main/Sakura_full.png.jpeg "sametaor")](https://github.com/sametaor)
-# Hello there!<img src="https://raw.githubusercontent.com/sametaor/sametaor/main/Hellothere.gif" width="30px"> 
-### Welcome to my github profile! <img src="https://raw.githubusercontent.com/sametaor/sametaor/main/Octocat.png" width="30px">
+<h1 align="center">Hello there!<img src="https://raw.githubusercontent.com/sametaor/sametaor/main/Hellothere.gif" width="30px"></h1>
+
+<h3 align="center">Welcome to my github profile! <img src="https://raw.githubusercontent.com/sametaor/sametaor/main/Octocat.png" width="30px"></h2>
 <p align="center">
   <a href="https://www.microsoft.com/en-us/software-download/windows10">
     <img align="top" src="https://img.shields.io/badge/OS-Windows⠀10-informational?style=for-the-badge&logo=Windows&logoColor=blue&color=2997cc" />
@@ -24,10 +25,12 @@
 - ⚡ Fun fact: ... I can grab your attention by saying "Fun fact:" ;)
 
 ## <img src="https://raw.githubusercontent.com/sametaor/sametaor/main/icons8-source-code-48.png" width="20px"> My Learning Goals:
-[![Python][6.2]][6] [![HTML][7.2]][7] [![C#][8.2]][8] [![C++][9.2]][9] [![JS][10.2]][10]  
+[![Python][6.2]][6]   [![HTML][7.2]][7]   [![C#][8.2]][8]   [![C++][9.2]][9] [![JS][10.2]][10]  
+
 <a href="https://github.com/sametaor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametaor&layout=compact&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
 </a>  
+
 ## How to reach me:
 ![Discord][1.2] [![Youtube][2.2]][2] [![Twitter][3.2]][3] [![Github][4.2]][4] [![Reddit][5.2]][5] [![StackOverflow][11.2]][11] [![StackExchange][12.2]][12]
 
@@ -85,4 +88,5 @@
 </a>
 
 ## Current Obsession:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&redirect=true)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=sametaor&count=7)
