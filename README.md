@@ -89,4 +89,4 @@
 
 ## Current Obsession:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&redirect=true)
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=sametaor&count=7)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=sametaor&count=6)
