@@ -81,6 +81,12 @@
 
 ## Weekly Coding Activity:
 <!--START_SECTION:waka-->
+
+```text
+Python   3 hrs 36 mins   ████████████████████████▒   97.37 %
+Text     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+```
+
 <!--END_SECTION:waka-->
 ## My Github Repos:
 <p align="center">
