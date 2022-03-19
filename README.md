@@ -79,7 +79,7 @@
   </a>
 </p>
 
-## Weekly Codding Activity:
+## Weekly Coding Activity:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ## My Github Repos:
