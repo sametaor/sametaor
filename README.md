@@ -65,10 +65,10 @@
 <!-- github cards -->
 ## Stats:
 <a href="https://github.com/sametaor">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=sametaor&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
+  <img height=167 align="center" src="https://github-readme-stats.vercel.app/api?username=sametaor&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sametaor&theme=ads-juicy-fresh&date_format=j%20M%5B%20Y%5D" />
+  <img height=167 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sametaor&theme=ads-juicy-fresh&date_format=j%20M%5B%20Y%5D" />
 </a>
 <a href="https://github.com/sametaor">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sametaor&bg_color=0d0c15&color=6dd803&line=fe5700&point=f7d745&area_color=6562af" />
