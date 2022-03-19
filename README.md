@@ -31,7 +31,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametaor&layout=compact&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
 </a>  
 
-## How to reach me:
+## 💬 How to reach me:
 ![Discord][1.2] [![Youtube][2.2]][2] [![Twitter][3.2]][3] [![Github][4.2]][4] [![Reddit][5.2]][5] [![StackOverflow][11.2]][11] [![StackExchange][12.2]][12]
 
 <!-- Icons -->
@@ -63,7 +63,7 @@
 [9]: https://isocpp.org/
 [10]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 <!-- github cards -->
-## Stats:
+## 📊 Stats:
 <p align="center">
   <a href="https://github.com/sametaor">
     <img height=163 align="center" src="https://github-readme-stats.vercel.app/api?username=sametaor&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
@@ -79,7 +79,7 @@
   </a>
 </p>
 
-## Weekly Coding Activity:
+## ⌨ Weekly Coding Activity:
 <!--START_SECTION:waka-->
 
 ```text
@@ -88,7 +88,7 @@ Text     5 mins          ▓░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-## My Github Repos:
+## 📚 My Github Repos:
 <p align="center">
   <a href="https://github.com/sametaor/Test-bot-for-Discord">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametaor&repo=Test-bot-for-Discord&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
@@ -98,7 +98,7 @@ Text     5 mins          ▓░░░░░░░░░░░░░░░░░�
   </a>
 </p>
 
-## Current Obsession:
+## 🎶 Current Music Obsession:
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&redirect=true">
     <img height=452 align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&cover_image=true&theme=default" />
