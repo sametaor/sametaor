@@ -98,7 +98,7 @@ Text     5 mins          ▓░░░░░░░░░░░░░░░░░�
   </a>
 </p>
 
-## Repos I've contributed to:
+## <img height=30 src="https://img.icons8.com/fluency/48/000000/code-fork.png"/> Repos I've contributed to:
 <p align="center">
   <a href=https://github.com/Rise-Software/Rise-Media-Player>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rise-Software&repo=Rise-Media-Player&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
