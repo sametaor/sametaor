@@ -64,29 +64,37 @@
 [10]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 <!-- github cards -->
 ## Stats:
-<a href="https://github.com/sametaor">
-  <img height=163 align="center" src="https://github-readme-stats.vercel.app/api?username=sametaor&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
-</a>
-<a href="https://git.io/streak-stats">
-  <img height=163 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sametaor&theme=ads-juicy-fresh&date_format=j%20M%5B%20Y%5D" />
-</a>
-<a href="https://github.com/sametaor">
-  <img height=291 align="center" src="https://activity-graph.herokuapp.com/graph?username=sametaor&bg_color=0d0c15&color=6dd803&line=fe5700&point=f7d745&area_color=6562af" />
-</a>  
 <p align="center">
+  <a href="https://github.com/sametaor">
+    <img height=163 align="center" src="https://github-readme-stats.vercel.app/api?username=sametaor&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height=163 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sametaor&theme=ads-juicy-fresh&date_format=j%20M%5B%20Y%5D" />
+  </a>
+  <a href="https://github.com/sametaor">
+  <img height=291 align="center" src="https://activity-graph.herokuapp.com/graph?username=sametaor&bg_color=0d0c15&color=6dd803&line=fe5700&point=f7d745&area_color=6562af" />
+  </a>  
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=sametaor&theme=juicyfresh&column=7" />
+    <img height=119 align="center" src="https://github-profile-trophy.vercel.app/?username=sametaor&theme=juicyfresh&column=7" />
   </a>
 </p>
 
 ## My Github Repos:
-<a href="https://github.com/sametaor/Test-bot-for-Discord">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametaor&repo=Test-bot-for-Discord&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
-</a>
-<a href="https://github.com/sametaor/sametaor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametaor&repo=sametaor&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
-</a>
+<p align="center">
+  <a href="https://github.com/sametaor/Test-bot-for-Discord">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametaor&repo=Test-bot-for-Discord&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
+  </a>
+  <a href="https://github.com/sametaor/sametaor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametaor&repo=sametaor&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
+  </a>
+</p>
 
 ## Current Obsession:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&redirect=true)
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=sametaor&count=6)
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&redirect=true">
+    <img height=455 align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&cover_image=true&theme=default" />
+  </a>
+  <a href="https://github.com/sametaor">
+    <img align="center" src="https://lastfm-recently-played.vercel.app/api?user=sametaor&count=6" />
+  </a>
+</p>
