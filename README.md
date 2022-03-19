@@ -71,7 +71,7 @@
   <img height=163 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sametaor&theme=ads-juicy-fresh&date_format=j%20M%5B%20Y%5D" />
 </a>
 <a href="https://github.com/sametaor">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sametaor&bg_color=0d0c15&color=6dd803&line=fe5700&point=f7d745&area_color=6562af" />
+  <img height=291 align="center" src="https://activity-graph.herokuapp.com/graph?username=sametaor&bg_color=0d0c15&color=6dd803&line=fe5700&point=f7d745&area_color=6562af" />
 </a>  
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
