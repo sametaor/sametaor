@@ -99,8 +99,8 @@ Text     5 mins          ▓░░░░░░░░░░░░░░░░░�
 </p>
 
 ## Repos I've contributed to:
-<p align="center"
-  <a href="https://github.com/Rise-Software/Rise-Media-Player">
+<p align="center">
+  <a href=https://github.com/Rise-Software/Rise-Media-Player>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rise-Software&repo=Rise-Media-Player&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
   </a>
 </p>
