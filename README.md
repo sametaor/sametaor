@@ -79,6 +79,9 @@
   </a>
 </p>
 
+## Weekly Codding Activity:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ## My Github Repos:
 <p align="center">
   <a href="https://github.com/sametaor/Test-bot-for-Discord">
