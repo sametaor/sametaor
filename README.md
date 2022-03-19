@@ -98,6 +98,13 @@ Text     5 mins          ▓░░░░░░░░░░░░░░░░░�
   </a>
 </p>
 
+## Repos I've contributed to:
+<p align="center"
+  <a href="https://github.com/Rise-Software/Rise-Media-Player">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametaor&repo=sametaor&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
+  </a>
+</p>
+
 ## 🎶 Current Music Obsession:
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&redirect=true">
