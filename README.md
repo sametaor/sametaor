@@ -17,12 +17,14 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on ... A discord bot for a server as my practice project for Python
-- 👯 I’m looking to collaborate on ... simple bots for different social media platforms
-- 🤔 I’m looking for help with ... Discord API
-- 💬 Ask me about ... Basic Python
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I can grab your attention by saying "Fun fact:" ;)
+```text
+• 🔭 I’m currently working on ... A discord bot for a server as my practice project for Python
+• 👯 I’m looking to collaborate on ... simple bots for different social media platforms
+• 🤔 I’m looking for help with ... Discord API
+• 💬 Ask me about ... Basic Python
+• 😄 Pronouns: ... He/Him
+• ⚡ Fun fact: ... I can grab your attention by saying "Fun fact:" ;)
+```
 
 ## <img src="https://raw.githubusercontent.com/sametaor/sametaor/main/icons8-source-code-48.png" width="20px"> My Learning Goals:
 <p align="center">
