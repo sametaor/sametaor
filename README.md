@@ -126,7 +126,7 @@ Other        5 mins          ▓░░░░░░░░░░░░░░░░
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&redirect=true">
     <img height=452 align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&cover_image=true&theme=default" />
   </a>
-  <a href="https://github.com/sametaor">
+  <a href="https://www.last.fm/user/sametaor">
     <img height=448 align="center" src="https://lastfm-recently-played.vercel.app/api?user=sametaor&count=6" />
   </a>
 </p>
