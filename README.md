@@ -108,17 +108,17 @@ Other        5 mins          ▓░░░░░░░░░░░░░░░░
 ## 📚 My Github Repos:
 <p align="center">
   <a href="https://github.com/sametaor/Test-bot-for-Discord">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametaor&repo=Test-bot-for-Discord&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametaor&repo=Test-bot-for-Discord&show_owner=True&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
   </a>
   <a href="https://github.com/sametaor/sametaor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametaor&repo=sametaor&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametaor&repo=sametaor&show_owner=True&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
   </a>
 </p>
 
 ## <img height=30 src="https://img.icons8.com/fluency/48/000000/code-fork.png"/> Repos I've contributed to:
 <p align="center">
   <a href=https://github.com/Rise-Software/Rise-Media-Player>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rise-Software&repo=Rise-Media-Player&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rise-Software&repo=Rise-Media-Player&show_owner=True&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
   </a>
 </p>
 
