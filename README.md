@@ -1,5 +1,5 @@
 [![Header](https://raw.githubusercontent.com/sametaor/sametaor/main/Sakura_full.png.jpeg "sametaor")](https://github.com/sametaor)
-<h1 align="center">Hello there!<img src="https://raw.githubusercontent.com/sametaor/sametaor/main/Hellothere.gif" width="30px"></h1>
+<h1 align="center">Hello there!<img src="https://raw.githubusercontent.com/sametaor/sametaor/main/Hellothere.gif" height="30px"></h1>
 
 <h3 align="center">Welcome to my github profile! <img src="https://raw.githubusercontent.com/sametaor/sametaor/main/Octocat.png" width="30px"></h2>
 <p align="center">
