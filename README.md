@@ -1,7 +1,10 @@
 [![Header](https://raw.githubusercontent.com/sametaor/sametaor/main/Sakura_full.png.jpeg "sametaor")](https://github.com/sametaor)
-<h1 align="center">Hello there!<img src="https://raw.githubusercontent.com/sametaor/sametaor/main/Hellothere.gif" height="30px"></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There+👋;Welcome+to+my+Github+Readme+profile!&pause=1000&height=100&width=900&color=78f001&center=true&size=40&font=Orbitron"/><img src="https://raw.githubusercontent.com/sametaor/sametaor/main/Octocat.png" width="112px">
+   </a>
+</p>
 
-<h3 align="center">Welcome to my github profile! <img src="https://raw.githubusercontent.com/sametaor/sametaor/main/Octocat.png" width="30px"></h2>
 <p align="center">
   <a href="https://www.microsoft.com/en-us/software-download/windows10">
     <img height=35 align="top" src="https://img.shields.io/badge/OS-Windows 10-informational?style=for-the-badge&logo=Windows&logoColor=blue&color=2997cc" />
