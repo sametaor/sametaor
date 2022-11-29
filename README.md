@@ -6,6 +6,12 @@
 </p>
 
 <p align="center">
+  <a href=https://github.com/sametaor>
+    <img align="center" src="/metrics.terminal.svg" />
+  </a>
+  <a href=https://github.com/sametaor?tab=stars>
+    <img align="center" src="metrics.plugin.stars.svg" />
+  </a>  
   <a href="https://www.microsoft.com/en-us/software-download/windows10">
     <img height=35 align="top" src="https://img.shields.io/badge/OS-Windows 10-informational?style=for-the-badge&logo=Windows&logoColor=blue&color=2997cc" />
   </a>
@@ -97,14 +103,14 @@
   </a>
 </p>
 
-## ⌨ Weekly Coding Activity:
-<!--START_SECTION:waka-->
+## ⌨ My Coding Activities:
+<p align="center">
+  <a href="https://github.com/sametaor">
+    <img height="350" width="422" align="left" src="metrics.plugin.habits.charts.svg"/><img height="100" width="570" align="top" src="metrics.plugin.languages.details.svg"/><img height="250" width="550" align="right" src="metrics.plugin.wakatime.svg"/>
+  </a>
+</p>
+<br>
 
-```text
-Python   14 mins         █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
 ## 📚 My Github Repos:
 <p align="center">
   <a href="https://github.com/sametaor/Test-bot-for-Discord">
@@ -115,10 +121,14 @@ Python   14 mins         ██████████████████�
   </a>
 </p>
 
-## <img height=30 src="https://img.icons8.com/fluency/48/000000/code-fork.png"/> Repos I've contributed to:
+## <img height=30 src="https://img.icons8.com/fluency/48/000000/code-fork.png"/> My Contributions:
+
 <p align="center">
   <a href=https://github.com/Rise-Software/Rise-Media-Player>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rise-Software&repo=Rise-Media-Player&show_owner=True&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
+  </a>
+  <a href=https://github.com/sametaor/Pokedex>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametaor&repo=Pokedex&show_owner=True&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
   </a>
 </p>
 
