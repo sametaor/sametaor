@@ -78,6 +78,9 @@
 
 <!-- github cards -->
 ## 📊 Stats:
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <p align="center">
   <a href="https://github.com/sametaor">
     <img height=163 align="center" src="https://github-readme-stats.vercel.app/api?username=sametaor&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
