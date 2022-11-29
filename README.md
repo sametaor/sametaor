@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href=https://github.com/sametaor>
-    <img align="center" src="/metrics.terminal.svg" />
+    <img align="left" src="/metrics.terminal.svg" />
   </a>
   <a href=https://github.com/sametaor?tab=stars>
-    <img align="center" src="metrics.plugin.stars.svg" />
+    <img align="right" src="metrics.plugin.stars.svg" />
   </a>  
   <a href="https://www.microsoft.com/en-us/software-download/windows10">
     <img height=35 align="top" src="https://img.shields.io/badge/OS-Windows 10-informational?style=for-the-badge&logo=Windows&logoColor=blue&color=2997cc" />
