@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/sametaor/sametaor/main/Sakura_full.png.jpeg "sametaor")](https://github.com/sametaor)
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There+👋;Welcome+to+my+Github+Readme+profile!&pause=1000&height=100&width=900&color=78f001&center=true&size=40&font=Orbitron"/><img src="https://raw.githubusercontent.com/sametaor/sametaor/main/Octocat.png" width="112px">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There+👋;Welcome+to+my+Github+Readme+profile!&pause=1000&height=93&width=900&color=78f001&center=true&size=40&font=Orbitron"/><img src="https://raw.githubusercontent.com/sametaor/sametaor/main/Octocat.png" width="112px">
    </a>
 </p>
 
@@ -82,8 +82,6 @@
 <!-- github cards -->
 ## 📊 Stats:
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 <p align="center">
   <a href="https://github.com/sametaor">
     <img height=163 align="center" src="https://github-readme-stats.vercel.app/api?username=sametaor&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
@@ -92,8 +90,8 @@
     <img height=163 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sametaor&theme=ads-juicy-fresh&date_format=j%20M%5B%20Y%5D" />
   </a>
   <a href="https://github.com/sametaor">
-  <img height=291 align="center" src="https://activity-graph.herokuapp.com/graph?username=sametaor&bg_color=0d0c15&color=6dd803&line=fe5700&point=f7d745&area_color=6562af" />
-  </a>  
+    <img height=551 align="center" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img height=119 align="center" src="https://github-profile-trophy.vercel.app/?username=sametaor&theme=juicyfresh&column=7" />
   </a>
