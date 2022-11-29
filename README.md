@@ -104,9 +104,10 @@
 </p>
 
 ## ⌨ My Coding Activities:
+
 <p align="center">
   <a href="https://github.com/sametaor">
-    <img height="350" width="422" align="left" src="metrics.plugin.habits.charts.svg"/><img height="100" width="570" align="top" src="metrics.plugin.languages.details.svg"/><img height="250" width="550" align="right" src="metrics.plugin.wakatime.svg"/>
+    <img height="350" width="422" align="left" src="metrics.plugin.habits.charts.svg"/><img height="100" width="500" align="top" src="metrics.plugin.languages.details.svg"/><img height="250" width="500" align="right" src="metrics.plugin.wakatime.svg"/>
   </a>
 </p>
 <br>
