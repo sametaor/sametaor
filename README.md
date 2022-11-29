@@ -107,12 +107,13 @@
 
 <p align="center">
   <a href="https://github.com/sametaor">
-    <img height="350" width="422" align="left" src="metrics.plugin.habits.charts.svg"/><img height="100" width="460" align="right" src="metrics.plugin.languages.details.svg"/><img height="250" width="460" align="right" src="metrics.plugin.wakatime.svg"/>
+    <img height="350" width="460" align="left" src="metrics.plugin.habits.charts.svg"/><img height="100" width="460" align="right" src="metrics.plugin.languages.details.svg"/><img height="250" width="460" align="right" src="metrics.plugin.wakatime.svg"/>
   </a>
 </p>
 <br>
 
 ## 📚 My Github Repos:
+
 <p align="center">
   <a href="https://github.com/sametaor/Test-bot-for-Discord">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametaor&repo=Test-bot-for-Discord&show_owner=True&show_icons=true&theme=chartreuse-dark&border_color=aeadaf&bg_color=0d0c15" />
