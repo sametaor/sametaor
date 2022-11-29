@@ -107,7 +107,7 @@
 
 <p align="center">
   <a href="https://github.com/sametaor">
-    <img height="350" width="440" align="left" src="metrics.plugin.habits.charts.svg"/><img height="100" width="460" align="right" src="metrics.plugin.languages.details.svg"/><img height="250" width="460" align="right" src="metrics.plugin.wakatime.svg"/>
+    <img height="350" width="440" align="left" src="metrics.plugin.habits.charts.svg"/><img height="100" width="440" align="right" src="metrics.plugin.languages.details.svg"/><img height="250" width="460" align="right" src="metrics.plugin.wakatime.svg"/>
   </a>
 </p>
 <br>
