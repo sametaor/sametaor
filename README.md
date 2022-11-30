@@ -137,9 +137,9 @@
 ## 🎶 Current Music Obsession:
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&redirect=true">
-    <img height=452 align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&cover_image=true&theme=default" />
+    <img height=100 align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=zc72jfyu61f2weqylj85pc5er&cover_image=true&theme=novatorem" />
   </a>
   <a href="https://www.last.fm/user/sametaor">
-    <img height=448 align="center" src="https://lastfm-recently-played.vercel.app/api?user=sametaor&count=6" />
+    <img height=100 align="center" src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=sametaor&theme=dimmed&show_scrobbles=true" />
   </a>
 </p>
