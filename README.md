@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/sametaor/sametaor/main/Sakura_full.png.jpeg "sametaor")](https://github.com/sametaor)
+[![Header](https://raw.githubusercontent.com/sametaor/sametaor/main/sametaorbanner(Sakura Blossom).png "sametaor")](https://github.com/sametaor)
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There+👋;Welcome+to+my+Github+Readme+profile!&pause=1000&height=93&width=900&color=78f001&center=true&size=40&font=Orbitron"/><img src="https://raw.githubusercontent.com/sametaor/sametaor/main/Octocat.png" width="112px">
