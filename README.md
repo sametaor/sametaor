@@ -29,6 +29,7 @@
 ```text
 • 🔭 I’m currently working on ... A discord bot for a server as my practice project for Python
 • 👯 I’m looking to collaborate on ... simple bots for different social media platforms
+- 🎯 Ultimate goal ... Making a unified yet flexible system of installing/uninstalling apps, applying consistent themes across supported apps, as well as providing easy endpoint solutions to do it in few clicks.
 • 🤔 I’m looking for help with ... Discord API
 • 💬 Ask me about ... Basic Python
 • 😄 Pronouns: ... He/Him
