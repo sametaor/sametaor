@@ -61,13 +61,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Rise-Photos</span>
-                                <div class="bar" style="width: 66.432%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">83%</span>
+                                <div class="bar" style="width: 54.48%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">68%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">my website</span>
-                                <div class="bar" style="width: 13.536000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">17%</span>
+                                <div class="bar" style="width: 25.496%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">32%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">termux-ubuntu</span>
@@ -75,13 +75,13 @@
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">oauth</span>
+                                <span class="name">Shizuku</span>
                                 <div class="bar" style="width: 0.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Shizuku</span>
-                                <div class="bar" style="width: 0.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">fabric?tab=readme-ov-file</span>
+                                <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -91,7 +91,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 79.944%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.93599999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">100%</span>
                             </div>
                             <div class="entry">
@@ -101,12 +101,12 @@
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.023999999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Git Config</span>
-                                <div class="bar" style="width: 0.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
