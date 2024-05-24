@@ -21,9 +21,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.7391099377711" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="446.7391099377711" y="0" width="13.21209692626815" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="459.9512068640392" y="0" width="0.048793135960776925" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.4838950957931" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="446.4838950957931" y="0" width="13.467339642977036" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="459.95123473877015" y="0" width="0.04876526122985046" height="8" fill="#3B2F63"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,7 +36,7 @@
                             </div>
                             <small>
                                 <div>164 kB</div>
-                                <div>97.12%</div>
+                                <div>97.06%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -61,8 +61,8 @@
                                 PowerShell
                             </div>
                             <small>
-                                <div>4.87 kB</div>
-                                <div>2.87%</div>
+                                <div>4.97 kB</div>
+                                <div>2.93%</div>
                             </small>
                         </div>
                     </section>
