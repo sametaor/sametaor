@@ -61,27 +61,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">xp</span>
-                                <div class="bar" style="width: 40.456%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">51%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">xtg-epbh-eab</span>
-                                <div class="bar" style="width: 11.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 33.752%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">42%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">ollama</span>
-                                <div class="bar" style="width: 7.68%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 8.28%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Win11Debloat</span>
+                                <div class="bar" style="width: 7.824%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">winutil</span>
-                                <div class="bar" style="width: 7.056%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.088%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">search-plugins</span>
-                                <div class="bar" style="width: 5.12%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.144%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                         </div>
@@ -91,16 +91,16 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 77.15199999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">96%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Image (svg)</span>
-                                <div class="bar" style="width: 1.5039999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 74.93599999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">94%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PowerShell</span>
+                                <div class="bar" style="width: 3.7200000000000006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Image (svg)</span>
                                 <div class="bar" style="width: 1.3359999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
